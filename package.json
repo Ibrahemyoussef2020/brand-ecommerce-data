@@ -4,12 +4,13 @@
   "description": "",
   "main": "sever.js",
   "scripts": {
-    "start" : "node server.js"
+    "start": "node server.js",
+    "serve-json": "json-server -w db.json -p 5000"
   },
   "keywords": [],
   "author": "Ibrahim Youssef",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.17.4"
   }
 }
