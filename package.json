@@ -4,10 +4,10 @@
   "description": "",
   "main": "sever.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start" : "node server.js"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Ibrahim Youssef",
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-alpha.23"
